@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  justify-content: center;
+  font-family: Helvetica Neue, Helvetica, Arial;
+  font-size: 16px;
+
+
+}
+.container{
+  width: 1024px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+

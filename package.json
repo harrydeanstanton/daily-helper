@@ -1,0 +1,48 @@
+{
+  "name": "webpack_init",
+  "version": "1.0.0",
+  "description": "## Zadanie rozwiązywane z wykładowcą",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-loader": "^1.0.3",
+    "npm": "^6.0.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^3.2.1",
+    "react-router-dom": "^4.2.2",
+    "soundmanager2": "^2.97.20170602"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^3.2.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14",
+    "webpack-dev-server": "^3.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrydeanstanton/daily-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harrydeanstanton/daily-helper/issues"
+  },
+  "homepage": "https://github.com/harrydeanstanton/daily-helper#readme"
+}
